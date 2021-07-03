@@ -5,7 +5,7 @@ Kelly Jellison
 July 2021
 V1.0
 
-/(
+/*
 
 ArrayList<creature> creatures = new ArrayList<creature>(); //<>//
 grid map;
